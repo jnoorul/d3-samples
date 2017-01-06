@@ -1,0 +1,10 @@
+{
+  "name": "D3Samples",
+  "version": "1.0.0",
+  "description": "Contains D3 charts",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {}
+}

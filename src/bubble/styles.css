@@ -1,0 +1,24 @@
+.bubble {
+    stroke: #fff;
+}
+
+.year {
+    font-family: Verdana sans-serif;
+    font-size: 200px;
+    stroke: rgba(0,0,0,0.5);
+}
+
+.btn {
+    border: 1px solid steelblue;
+    color: black;
+    font-weight: bold;
+    font-family: Verdana sans-serif;
+    margin-left: 80px;
+    height: 40px;
+    width: 80px;
+    background-color: aquamarine;
+}
+
+.btn:active {
+    background-color: white;
+}
